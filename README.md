@@ -6,7 +6,7 @@
 
 The Business Name to Instagram Username Extractor is a powerful tool designed to streamline the process of finding and extracting existing Instagram usernames from real business names. This tool aims to make outreach efforts more efficient by providing accurate and relevant Instagram handles for businesses.
 
-![alt text]([http://url/to/img.png](https://ibb.co/H4Tf2rD])
+![alt text](https://ibb.co/H4Tf2rD)
 
 ## Features
 

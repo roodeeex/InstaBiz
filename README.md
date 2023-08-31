@@ -43,7 +43,7 @@ The Business Name to Instagram Username Extractor is a powerful tool designed to
 
 ## Contributing
 
-Contributions are welcome! Please refer to the Contribution Guidelines for more details.
+Contributions are welcome! Please refer to the [Contribution Guidelines](CONTRIBUTING.md) for more details.
 
 ## License
 

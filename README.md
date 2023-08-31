@@ -38,8 +38,9 @@ The Business Name to Instagram Username Extractor is a powerful tool designed to
    ```bash
    python extractor.py
 3. Input the desired business names txt file and output txt file (WITHOUT .TXT) for username extraction.
-4. The tool will retrieve existing Instagram usernames associated with the provided business names.
-5. Utilize these usernames for more effective outreach on Instagram.
+   (You can get GMaps Buisness names by using the free version of [Botsol](https://www.botsol.com/bots/google-maps-crawler) )
+5. The tool will retrieve existing Instagram usernames associated with the provided business names.
+6. Utilize these usernames for more effective outreach on Instagram.
 
 ## Contributing
 

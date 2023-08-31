@@ -1,4 +1,4 @@
-# Business Name to Instagram Username Extractor
+# InstaBiz Username Extractor
 
 ![GitHub License](https://img.shields.io/badge/license-MIT-blue.svg)
 
@@ -20,12 +20,12 @@ The Business Name to Instagram Username Extractor is a powerful tool designed to
 1. Clone this repository to your local machine using:
 
    ```bash
-   git clone https://github.com/your-username/insta-username-extractor.git
+   git clone https://github.com/roodeeex/instabiz.git
    
 2. Navigate to the project directory:
    
    ```bash
-   cd insta-username-extractor
+   cd instabiz
 
 4. Install any required dependencies:
 
@@ -52,6 +52,14 @@ This project is licensed under the MIT License - see the [LICENSE](https://githu
 ## Contact
 
 If you have any questions or suggestions, feel free to open an issue or reach out to us at roudecpro@gmail.com.
+
+## Donate
+
+If you find this tool helpful, consider supporting its development by making a donation:
+
+- PayPal: [paypal.me/baovey](https://www.paypal.me/boavey)
+
+Your contributions will be greatly appreciated and help us continue to improve the tool.
 
 ## Acknowledgments
 

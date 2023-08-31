@@ -47,7 +47,7 @@ Contributions are welcome! Please refer to the Contribution Guidelines for more 
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/roodeeex/InstaBiz/blob/main/MIT-LICENSE.TXT) file for details.
 
 ## Contact
 

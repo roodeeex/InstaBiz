@@ -23,20 +23,23 @@ The Business Name to Instagram Username Extractor is a powerful tool designed to
    git clone https://github.com/your-username/insta-username-extractor.git
    
 2. Navigate to the project directory:
-
+   
+   ```bash
    cd insta-username-extractor
 
-3. Install any required dependencies:
+4. Install any required dependencies:
 
+   ```bash
    pip install -r requirements.txt
 
 ## Usage
 
 1. Run the extractor script and follow the prompts:
+   ```bash
    python extractor.py
-2. Input the desired business names txt file and output txt file (WITHOUT .TXT) for username extraction.
-3. The tool will retrieve existing Instagram usernames associated with the provided business names.
-4. Utilize these usernames for more effective outreach on Instagram.
+3. Input the desired business names txt file and output txt file (WITHOUT .TXT) for username extraction.
+4. The tool will retrieve existing Instagram usernames associated with the provided business names.
+5. Utilize these usernames for more effective outreach on Instagram.
 
 ## Contributing
 

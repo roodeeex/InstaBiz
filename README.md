@@ -59,7 +59,7 @@ Instagram : [@roodeeex](https://instagram.com/roodeeex)
 
 If you find this tool helpful, consider supporting its development by making a donation:
 
-- PayPal: [paypal.me/baovey](https://www.paypal.me/boavey)
+- PayPal: roudecpro@gmail.com.
 
 Your contributions will be greatly appreciated and help us continue to improve the tool.
 
